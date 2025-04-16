@@ -1,4 +1,7 @@
+/* eslint-disable */
+
 import bcrypt from "@node-rs/bcrypt";
+
 import postgres from "postgres";
 import { invoices, customers, revenue, users } from "../lib/placeholder-data";
 
